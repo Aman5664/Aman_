@@ -9,6 +9,7 @@ public class oddeven {
         System.out.println("your no. is even");
         else
         System.out.println("your no.is odd");
+        System.out.println("i am dinesh");
 
     }
     
