@@ -28,7 +28,9 @@ public class basic_ques2 {
 
         // List<Integer> ar_list2 = new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8));
         // System.out.println(ar_list2);
-        
+        // ArrayList<Integer> subList = new ArrayList<Integer>(ar_list2.subList(1,5)); 
+        // System.out.println(subList);
+
     //     System.out.print("after cloned ");
     //    ArrayList<Integer> ob = (ArrayList) ar_list.clone(); // make a dublicate copy
 
